@@ -1,5 +1,6 @@
 # ScriptAnimator
-![License](https://img.shields.io/github/license/grisuno/LazyOwn?style=flat-square)
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ```sh
                                                                              
